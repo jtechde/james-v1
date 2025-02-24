@@ -1,14 +1,14 @@
 {
-  "name": "🚮 CASEYRHODES XMD❤️",
-  "description": "This BOT was developed by CASEYRHODES.",
+  "name": "🚮 JAMES V2❤️",
+  "description": "This BOT was developed by JAMES.",
   "keywords": [
     "bot",
     "node",
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://i.ibb.co/n6rw805/694affc7ca5a5fb0cb58c2b4533f962d.jpg",
-  "repository": "https://github.com/caseyweb/NHEZHO-MD",
+  "logo": "https://files.catbox.moe/rjkqfo.jpg",
+  "repository": "https://github.com/jtechde/james-v1",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -49,7 +49,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "CASEYRHODES XMD",
+      "value": "JAMES V2",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -80,12 +80,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒🍀"
+      "value": "JAMES"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "254112192119"
+      "value": "254785016388"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
