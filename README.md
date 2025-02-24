@@ -16,7 +16,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/jtechde"><img title="Author" src="https://img.shields.io/badge/CASEYRHODES-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254112192119"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
+<a href="https://github.com/jtechde"><img title="Author" src="https://img.shields.io/badge/JAMESTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://chat.whatsapp.com/D9hokK6OHS5C3eLEwPKjsJ"><img title="Author" src="https://img.shields.io/badge/GROUP-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/254112192119"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp">
 <p/>
 
  <p align="center">
