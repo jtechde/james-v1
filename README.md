@@ -21,20 +21,20 @@
 
  <p align="center">
   <a href="https://kg-site-support.vercel.app/">
-    <img src="https://img.shields.io/badge/CASEYRHODES WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
+    <img src="https://img.shields.io/badge/JAMES WEBSITE-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Generate Session ID"/>
   </a>
    
 <p align="center">
-<a href="https://github.com/caseyweb/NHEZHO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/caseyweb/NHEZHO-MD?color=white&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/caseyweb/NHEZHO-MD?color=yellow&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/caseyweb/NHEZHO-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/caseyweb/NHEZHO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/caseyweb/NHEZHO-MDA/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
-        <a href = ""><img alt="CASEYRHODES Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
+<a href="https://github.com/jtechde/james-v1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jtechde/james-v1?color=white&style=flat-square"></a>
+<a href="https://github.com/jtechde/james-v1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jtechde/james-v1?color=yellow&style=flat-square"></a>
+<a href="https://github.com/jtechde/james-v1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jtechde/james-v1?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/jtechde/james-v1/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/jtechde/james-v1/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+        <a href = ""><img alt="JAMESTECH Tools" src="https://img.shields.io/youtube/channel/subscribers/UCjDKRYcwd5ZIpGICcVVL96Q" target="_blank" /></a>
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/caseyweb/NHEZHO-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/jtechde/james-v1/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 <p align="center">
 
 #### 𝐒𝐄𝐓𝐔𝐏
@@ -54,7 +54,7 @@
 
    ☢️IF YOU ALREADY HAVE A HEROKU ACCOUNT...DEPLOY NOW
 
- <a href="https://dashboard.heroku.com/new?template=https://github.com/caseyweb/NHEZHO-MD"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ <a href="https://dashboard.heroku.com/new?template=https://github.com/jtechde/james-v1"><img title="DEPLOY-ON HEROKU" src="https://img.shields.io/badge/DEPLOY-ON HEROKU-h?color=purple&style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
  
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
@@ -62,9 +62,9 @@
 
 
 
-## CONTACT CASEYRHODES TECH
+## CONTACT JAMESTECH TECH
   
-<a href="https://wa.me/254112192119"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+<a href="https://wa.me/254785016388"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://chat.whatsapp.com/GbpVWoHH0XLHOHJsYLtbjH"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="14%"> </a>
   <a href="https://www.facebook.com/profile.php?id=61567123730155&name=xhp_nt__fb__action__open_user"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="15%"> </a><a href="https://https://github.com/caseyweb/NHEZHO-MD"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/devto.png" width="15%"> </a><a href="CASEYRHODES "> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="13%"> </a>
