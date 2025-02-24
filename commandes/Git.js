@@ -40,23 +40,23 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/caseyweb
+> https://github.com/jtechde
 
 *WHATSAPP GROUP*
-> https://chat.whatsapp.com/Lcw1jJCMa6a82RDEW5XM1j
+> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 
 *FOR DEVELOPER T.ME*
-> https://t.me/caseyrhodes001
+> https://t.me/jamestechke
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E
+> https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/caseyweb/ZHEZHO-MD
+> https://github.com/jtechde/james-v1
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┃▓▒ *DEV* : *CASEYRHODES*
+┃▓▒ *DEV* : *JAMES*
 ┃ ❂━━━════➳════━━━━❂
 ⁠⁠⁠⁠╰──━━━━═════════━━━━⦿ 
   `;
@@ -64,7 +64,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ CASEYRHODES-XMD
+     ┃▓ JAMES-V2
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
@@ -75,7 +75,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "I am *Lucky Md*, Developed By Fredie Sir" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "I am *James Md*, Developed By Fredie Sir" , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -85,7 +85,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "I am *LUCKY MD V7*, Developed By Fredie Sir" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "I am *JAMES MD V2*, Developed By james" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
