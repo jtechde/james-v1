@@ -1,5 +1,5 @@
 {
-  "name": "CASEYRHODES XMD",
+  "name": "JAMES V2",
   "version": "2.0.0",
   "description": "",
   "main": "casey.js",
@@ -13,12 +13,12 @@
   "keywords": [
     "bot",
     "Baileys",
-    "CASEYRHODES XMD",
+    "JAMES V2",
     "whatsapp",
     "whatsapp-bot",
-    "CASEYRHODES XMD"
+    "JAMES V2"
   ],
-  "author": "CASEYRHODES",
+  "author": "JAMES",
 "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
