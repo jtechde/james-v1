@@ -25,7 +25,7 @@ zokou({
     }
 
     // Construct playlist message
-    let playlistMessage = `𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒 𝐗𝐌𝐃 𝐒𝐏𝐎𝐓𝐈𝐅𝐘 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓\n\n`;
+    let playlistMessage = `JAMES V2 𝐒𝐏𝐎𝐓𝐈𝐅𝐘 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓\n\n`;
 
     // Loop through search results and construct track info with numbers
     searchData.forEach((track, index) => {
@@ -46,11 +46,11 @@ zokou({
           mentionedJid: [dest],  // Mention the sender's JID
           externalAdReply: {
             showAdAttribution: true,
-            title: "CASEYRHODES XMD SPOTIFY LIST",
-            body: "Powered by CASEYRHODES TECH",
-            sourceUrl: "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E",
+            title: "JAMES XMD SPOTIFY LIST",
+            body: "Powered by JAMES TECH",
+            sourceUrl: "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H",
             mediaType: 1,
-            renderLargerThumbnail: false,
+            renderLargerThumbnail: true,
           },
         },
       }
