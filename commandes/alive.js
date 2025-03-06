@@ -3,15 +3,15 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou(
-  { nomCom: "alive", reaction: "👊", nomFichier: __filename },
+  { nomCom: "alive", reaction: "🩸", nomFichier: __filename },
   async (dest, zk, commandeOptions) => {
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/yedfbr.jpg"; // Full image URL
-    const smallThumbnailUrl = "https://files.catbox.moe/yedfbr.jpg"; // Small thumbnail URL
+    const fullImageUrl = "https://files.catbox.moe/rjkqfo.jpg"; // Full image URL
+    const smallThumbnailUrl = "https://files.catbox.moe/rjkqfo.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/n48x8j.mp3"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"; // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {
@@ -24,7 +24,7 @@ zokou(
         ptt: true, // Send as a voice note
         contextInfo: {
           externalAdReply: {
-            title: `💦 Message from: ${contactName}\n🔥𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂-𝚇𝙼𝙳 Alive🔥`, // Your contact in WhatsApp status format
+            title: `💦 Message from: ${contactName}\n🔥😂 James v2 Alive🔥`, // Your contact in WhatsApp status format
             body: "Yoh don't disturb am active🥱 Tap here",
             thumbnailUrl: smallThumbnailUrl, // Small thumbnail displayed below
             mediaType: 1, // Indicate this is an image
@@ -55,10 +55,10 @@ zokou(
     console.log("Alive command triggered!");
 
     // URLs and configurations
-    const fullImageUrl = "https://files.catbox.moe/yedfbr.jpg"; // Full image URL
-    const smallThumbnailUrl = "https://files.catbox.moe/yedfbr.jpg"; // Small thumbnail URL
+    const fullImageUrl = "https://files.catbox.moe/rjkqfo.jpg"; // Full image URL
+    const smallThumbnailUrl = "https://files.catbox.moe/rjkqfo.jpg"; // Small thumbnail URL
     const randomAudio = "https://files.catbox.moe/p6p605.m4a"; // Voice note URL
-    const sourceUrl = "https://whatsapp.com/channel/0029VakUEfb4o7qVdkwPk83E"; // Channel link
+    const sourceUrl = "https://whatsapp.com/channel/0029VaogSY74IBhJWe8b472H"; // Channel link
     const contactName = commandeOptions?.ms?.pushName || "Unknown Contact"; // Sender's name or "Unknown Contact"
 
     try {
@@ -71,7 +71,7 @@ zokou(
         ptt: true, // Send as a voice note
         contextInfo: {
           externalAdReply: {
-            title: `🌟 Message from: ${contactName}\n🔥 𝙲𝙰𝚂𝙴𝚈𝚁𝙷𝙾𝙳𝙴𝚂-𝚇𝙼𝙳 is alive 🔥`, // Your contact in WhatsApp status format
+            title: `🌟 Message from: ${contactName}\n🔥 James v2 is alive 🔥`, // Your contact in WhatsApp status format
             body: "Yoh don't disturb am active🥱 Tap here",
             thumbnailUrl: smallThumbnailUrl, // Small thumbnail displayed below
             mediaType: 1, // Indicate this is an image
